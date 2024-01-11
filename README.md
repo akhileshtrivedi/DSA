@@ -1,58 +1,62 @@
-# DSA
-Data Structures and Algorithms (DSA) Problems Repository
-Introduction
-Welcome to the Data Structures and Algorithms (DSA) Problems Repository! This repository is designed to help you practice and enhance your understanding of fundamental data structures and algorithms through a collection of coding problems. Whether you are a beginner looking to build a strong foundation or an experienced developer aiming to sharpen your skills, this repository has something for everyone.
+# Data Structures and Algorithms Problems Repository
 
-Table of Contents
-About
-Problem Categories
-How to Use
-Contributing
-Code Guidelines
-Contact
-License
-About
-This repository aims to provide a comprehensive set of DSA problems categorized by topics, difficulty levels, and data structures. Each problem is carefully chosen to cover various concepts, ensuring a well-rounded learning experience.
+This repository contains a collection of Data Structures and Algorithms problems, solutions, and explanations. Whether you are preparing for coding interviews, competitive programming, or just want to strengthen your problem-solving skills, this repository is a valuable resource.
 
-Problem Categories
-Arrays and Strings
-Linked Lists
-Stacks and Queues
-Trees and Graphs
-Sorting and Searching
-Dynamic Programming
-Greedy Algorithms
-Backtracking
-Hashing
-Bit Manipulation
-Math and Number Theory
-Miscellaneous
-How to Use
-Browse the Categories:
+## Table of Contents
 
-Explore the problem categories to find topics of interest.
-Each category contains a set of problems related to that specific topic.
-Choose a Problem:
+1. [Introduction](#introduction)
+2. [Problem Categories](#problem-categories)
+3. [Contributing](#contributing)
+4. [Folder Structure](#folder-structure)
+5. [How to Contribute](#how-to-contribute)
 
-Select a problem that aligns with your current learning objectives or challenges you to apply specific concepts.
-Solve the Problem:
+## Introduction
 
-Implement your solution in a programming language of your choice.
-Test your code with sample inputs to ensure correctness.
-Contribute:
+This repository aims to provide a curated set of problems related to Data Structures and Algorithms. Each problem comes with a solution and detailed explanations to help users understand the underlying concepts.
 
-Share your solution by submitting a pull request (PR) to help others learn from different perspectives.
-Discuss alternative approaches and optimizations.
-Contributing
-We welcome contributions from the community to enhance the quality and diversity of problems. If you have a new problem to add, find a bug, or have suggestions for improvements, please follow the contribution guidelines.
+## Problem Categories
 
-Code Guidelines
-Follow a consistent coding style to maintain readability.
-Include comments for complex parts of your code.
-Provide a clear and concise explanation of your approach and algorithm used.
-Include time and space complexity analysis in your comments.
-Contact
-If you have any questions, feedback, or suggestions, feel free to reach out to us at your-email@example.com.
+The problems in this repository are categorized based on the following topics:
 
-License
-This repository is licensed under the MIT License, meaning you are free to use, modify, and distribute the code for both commercial and non-commercial purposes. See the LICENSE file for details.
+- Data Structures
+  - Arrays
+  - Linked Lists
+  - Stacks
+  - Queues
+  - Trees
+  - Graphs
+  - Hash Tables
+  - Heaps
+  - etc.
+
+- Algorithms
+  - Sorting
+  - Searching
+  - Dynamic Programming
+  - Recursion
+  - Greedy Algorithms
+  - Divide and Conquer
+  - Backtracking
+  - etc.
+
+## Contributing
+
+Contributions are welcome and encouraged! If you have a problem and its solution that you'd like to add, or if you find any issues with existing problems, feel free to contribute.
+
+## Folder Structure
+
+The problems are organized into folders based on their categories. Each folder contains:
+
+- `problem.md`: Description of the problem statement.
+- `solution`: Folder containing the solution(s) in various programming languages.
+- `explanation.md`: Detailed explanation of the solution and its time and space complexity.
+
+
+## How to Contribute
+
+1. Fork the repository.
+2. Create a new branch for your feature or bug fix.
+3. Add your problem and solution, following the folder structure.
+4. Write a clear and concise explanation of the solution in `explanation.md`.
+5. Submit a pull request.
+
